@@ -31,3 +31,7 @@ body {
     background-color: #1F2937;
     display: flex;
 }
+
+.hero h1 {
+    color: #F9FAF8;
+}
