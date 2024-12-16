@@ -9,6 +9,7 @@ body {
     background-color: #1F2937;
     display: flex;
     justify-content: space-around;
+    padding: 5px;
 }
 
 .header ul {
