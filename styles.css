@@ -30,6 +30,10 @@ body {
     display: flex;
 }
 
+.hero {
+    justify-content: center;
+}
+
 .hero-txt-container {
     flex-basis: 40%;
 }
