@@ -12,6 +12,10 @@ body {
     padding: 5px;
 }
 
+.header img {
+    width: 24px;
+}
+
 .header ul {
     list-style-type: none;
     display: flex;
