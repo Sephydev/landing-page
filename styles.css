@@ -134,6 +134,11 @@ body {
     font-size: 24px;
 }
 
+.cta-section {
+    display: flex;
+}
+
 .cta-container {
     background-color: #3882F6;
+    flex-basis: 600px;
 }
