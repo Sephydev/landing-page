@@ -110,6 +110,11 @@ body {
     width: 200px;
 }
 
-.quote {
+.quote-section {
     background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
 }
