@@ -120,3 +120,7 @@ body {
     color: #1F2937;
     font-weight: 300;
 }
+
+.author-quote {
+    text-align: end;
+}
