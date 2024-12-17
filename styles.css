@@ -144,4 +144,5 @@ body {
     background-color: #3882F6;
     flex-basis: 600px;
     border-radius: 10px;
+    display: flex;
 }
