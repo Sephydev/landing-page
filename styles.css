@@ -16,7 +16,6 @@ body {
 
 .header ul {
     list-style-type: none;
-    display: flex;
     gap: 20px;
 }
 
@@ -27,18 +26,33 @@ body {
 .hero,
 .header {
     background-color: #1F2937;
+}
+
+.flex {
     display: flex;
 }
 
-.hero {
+.hero,
+.members-container {
     justify-content: center;
+}
+
+.hero {
     align-items: center;
-    gap: 50px;
     padding: 100px 0;
+}
+
+.hero,
+.members-container {
+    gap: 50px;
 }
 
 .hero img {
     width: 440px;
+}
+
+.hero img,
+.group-member img {
     height: auto;
 }
 
@@ -54,10 +68,14 @@ body {
     margin: 0;
 }
 
+.hero h1,
+.group h2 {
+    font-weight: 900;
+}
+
 .hero h1 {
     color: #F9FAF8;
     font-size: 48px;
-    font-weight: 900;
     margin: 10px 0;
 }
 
@@ -77,14 +95,7 @@ body {
 .group h2 {
     font-size: 36px;
     color: #1F2937;
-    font-weight: 900;
     margin: 50px 0;
-}
-
-.members-container {
-    display: flex;
-    justify-content: center;
-    gap: 50px;
 }
 
 .group-member {
@@ -97,5 +108,4 @@ body {
 
 .group-member img {
     width: 200px;
-    height: auto;
 }
