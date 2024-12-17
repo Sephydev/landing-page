@@ -89,6 +89,10 @@ body {
     flex-basis: 200px;
 }
 
+.group-member span {
+    font-style: italic;
+}
+
 .group-member img {
     width: 150px;
     height: auto;
