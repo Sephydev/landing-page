@@ -72,4 +72,9 @@ body {
 
 .members-container {
     display: flex;
+    justify-content: center;
+}
+
+.group-member {
+    flex-basis: 200px;
 }
