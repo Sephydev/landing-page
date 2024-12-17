@@ -82,3 +82,8 @@ body {
 .group-member {
     flex-basis: 200px;
 }
+
+.group-member img {
+    width: 150px;
+    height: auto;
+}
