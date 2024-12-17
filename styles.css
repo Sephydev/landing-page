@@ -133,3 +133,7 @@ body {
     text-align: end;
     font-size: 24px;
 }
+
+.cta-container {
+    background-color: #3882F6;
+}
