@@ -159,3 +159,7 @@ body {
     margin: 0;
     color: #E5E7EB;
 }
+
+.cta-container button {
+    background-color: #3882F6;
+}
