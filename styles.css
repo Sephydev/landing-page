@@ -83,6 +83,7 @@ body {
 .members-container {
     display: flex;
     justify-content: center;
+    gap: 50px;
 }
 
 .group-member {
@@ -94,6 +95,6 @@ body {
 }
 
 .group-member img {
-    width: 150px;
+    width: 200px;
     height: auto;
 }
