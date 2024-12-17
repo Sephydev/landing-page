@@ -32,10 +32,18 @@ body {
 
 .hero {
     justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 100px 0;
+}
+
+.hero img {
+    width: 440px;
+    height: auto;
 }
 
 .hero-txt-container {
-    flex-basis: 40%;
+    flex-basis: 440px;
 }
 
 .hero p,
