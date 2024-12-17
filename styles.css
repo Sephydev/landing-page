@@ -136,6 +136,7 @@ body {
 
 .cta-section {
     display: flex;
+    justify-content: center;
 }
 
 .cta-container {
