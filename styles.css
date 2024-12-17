@@ -149,5 +149,9 @@ body {
 }
 
 .cta-container h2 {
-    color: #F2FaF8;
+    color: #F2FAF8;
+}
+
+.cta-container p {
+    color: #E5E7EB;
 }
