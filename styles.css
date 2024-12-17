@@ -147,3 +147,7 @@ body {
     display: flex;
     align-items: center;
 }
+
+.cta-container h2 {
+    color: #F2FaF8;
+}
