@@ -110,7 +110,8 @@ body {
     font-weight: 700;
 }
 
-.group {
+.group,
+.footer {
     text-align: center;
 }
 
