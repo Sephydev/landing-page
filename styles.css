@@ -74,6 +74,10 @@ body {
     text-align: center;
 }
 
+.group h2 {
+    font-size: 36px;
+}
+
 .members-container {
     display: flex;
     justify-content: center;
