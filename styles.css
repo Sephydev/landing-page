@@ -70,6 +70,10 @@ body {
     font-weight: 700;
 }
 
+.group {
+    text-align: center;
+}
+
 .members-container {
     display: flex;
     justify-content: center;
