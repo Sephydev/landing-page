@@ -112,7 +112,8 @@ body {
 
 .quote-section {
     background-color: #E5E7EB;
-    padding: 100px 285px;
+    padding: 100px 285px 75px;
+    margin: 100px 0;
 }
 
 .quote {
